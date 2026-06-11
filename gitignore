@@ -1,0 +1,9 @@
+node_modules/
+.env
+dist/
+build/
+notification_app_fe/
+package-lock.json
+package.json
+server.js
+
